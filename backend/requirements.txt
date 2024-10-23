@@ -1,0 +1,8 @@
+fastapi
+python-multipart
+uvicorn
+sqlalchemy
+psycopg2-binary
+opencv-python
+Pillow
+dlib
